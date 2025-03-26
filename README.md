@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Priyansh Goantiya
+🚀 **Data Scientist | Data Analyst | Machine Learning Enthusiast**  
 
-<!--
-**priyanshgoantiya/priyanshgoantiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate about turning raw data into actionable insights.  
+🔹 Skilled in **Python, SQL, Pandas, NumPy, Scikit-learn, Plotly, MySQL, Streamlit**.  
+🔹 Working on **real-world projects** in finance, real estate, stock market, and sports analytics.  
 
-Here are some ideas to get you started:
+## 📌 Projects  
+✅ **Gurgaon Real Estate Explorer Web App** – Interactive analysis of Gurgaon real estate market.  
+✅ **Indian Startup Funding Web App** – Analyzing startup investments and trends.  
+✅ **IPL Match Win Predictor** – Predicting IPL match outcomes using ML.  
+✅ **ML From Scratch Without Sklearn** – Implementing ML algorithms from scratch.  
+✅ **Smartphone Data Cleaning & Model Building** – Data preprocessing and predictive modeling.  
+✅ **2011 Census India Data Visualization** – Interactive visualizations with Plotly.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Let's Connect!  
+🔗 [LinkedIn](https://www.linkedin.com/in/priyansh-goantiya-161267281/)
